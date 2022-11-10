@@ -1,6 +1,3 @@
-# NTUST-1111-ComputerGraphLab-Project1
-NTUST 111-1-賴祐吉-電腦圖學導論實習 Lab1(黑白棋)
-
 #### Libraries
  1. fltk-1.3.8
 
