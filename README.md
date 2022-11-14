@@ -9,3 +9,7 @@
 
 #### 運行結果
 ![](https://i.imgur.com/punptjV.png)
+
+
+#### 待做
+1. AI功能。使用Reinforcement learning製作。
