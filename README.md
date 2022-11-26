@@ -14,4 +14,4 @@
 
 
 # 待做
-1. AI功能。使用Reinforcement learning製作。
+1. 使用Reinforcement learning製作AI功能。
